@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.recognizer > h3 {
+    color: white;
+}
+
+.name_of_objects {
+    color:white;
+    font-style: italic;
+    font-size: 20px;
+}
+
+label {
+    font-size: 25px;
+}
+
+#camera {
+    border-color: orange;
+    border-style: double;
+    
+}
+
+#result {
+    border-color: orange;
+    border-style: double;
+}
